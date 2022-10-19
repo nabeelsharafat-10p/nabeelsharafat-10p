@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabeelsharafat-10p
+- 👋 Hi, I’m @nabeelsharafat
 - 👀 I’m interested in MERN and JAMSTACK
 - 🌱 I’m currently learning about how to code efficiently
 - 💞️ I’m looking to collaborate on some amazing projects
